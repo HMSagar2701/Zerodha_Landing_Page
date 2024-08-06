@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header img{
+    padding-right: 400px;
+    padding-left: 200px;
+}
+
+.header p{
+    padding-left : 20px;
+    padding-right: 20px;
+    color: #666;
+    font-size: large;
+    font-family: 'Times New Roman', Times, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.midlle hr {
+    border: 0;
+    height: 2px;
+    background: #bbb9b9;
+    margin: 2px 0;
+}
+
+.Invest{
+    font-size: 2.75rem;
+    text-align: "center";
+    font: bold;
+    padding-right: 600px;
+    color: #424242;
+}
+.Online{
+    font-size: 1.25rem;
+    font-family: "Inter", serif;
+    font-weight:400;
+    text-align: "center";
+    font: bold;
+    color: #424242;
+}
+
+
